@@ -1,6 +1,6 @@
 # 2048 Game
 
-[🎮 Play the Game](https://nex1994.github.io/js_2048_game/) • [📂 GitHub Repository](https://github.com/nex1994/js_2048_game)
+[🎮 Play the Game](https://nex1994.github.io/js_2048_game/) • [📂 GitHub Repository](https://github.com/nex1994/js_2048_game/tree/develop)
 
 A web implementation of the classic **2048 puzzle game**, where players combine matching tiles to reach the number 2048.
 
